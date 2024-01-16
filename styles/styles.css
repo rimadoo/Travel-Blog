@@ -197,6 +197,43 @@ margin-left: 100px;
 .lost{
    margin-left: 100px;
 }
+.video{
+    display: flex;
+}
+.vido{
+    height: 350px;
+    margin-left:50px;
+    
+}
+.place{
+    width: 393px;
+height: 52px;
+border-radius: 8px;
+background: rgba(19, 19, 24, 0.05);
+
+
+#daily{
+width: 350px;
+color: #5A5A5D;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+}
+#letter{
+    color: #131318;
+font-size: 24px;
+font-weight: 800;
+
+
+
+}
+
+.save{
+    display: flex;
+
+}
+
+
 @media screen and (max-width:576px) {
     header{
         padding:20px ;
