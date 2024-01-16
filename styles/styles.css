@@ -74,8 +74,27 @@ height:500px;
 }
 .Destination{
     text-align: center;
+    
 }
-
+#desu{
+    color: #131318;
+font-size: 40px;
+font-weight: 800;
+}
+#tination{
+    color: rgba(19, 19, 24, 0.70);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px; 
+}
+.row{
+   
+  
+   margin-left: 150px;
+}
+.move{
+  
+}
 @media screen and (max-width:576px) {
     header{
         padding:20px ;
@@ -99,6 +118,12 @@ height:500px;
        .Destination{
       margin-top: 300px;
       font-size: 10px;
+       }
+       #tination{
+        font-size: small;
+       }
+       .tours{
+        font-size: 12px;
        }
 }
 
