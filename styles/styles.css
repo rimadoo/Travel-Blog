@@ -210,6 +210,7 @@ margin-left: 100px;
 height: 52px;
 border-radius: 8px;
 background: rgba(19, 19, 24, 0.05);
+}
 
 
 #daily{
@@ -232,7 +233,102 @@ font-weight: 800;
     display: flex;
 
 }
+.rimad{
+    
+}
+#Ahmed{
+    width: 769px;
+color: #5A5A5D;
 
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+}
+.rimado{
+    color: var(--Dark-01, #131318);
+
+font-size: 32px;
+font-weight: 800;
+}
+.banner {
+    position: relative;
+    text-align: center;
+    color: white;
+ }
+  
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    margin-bottom: 370px;
+    margin-left: 500px;
+  }
+
+.top-left {
+    position: absolute;
+  margin-left: 550px;
+    top: 30px;
+    left: 16px;
+    color: #FFF;
+    margin-top: 30px;
+
+
+font-size: 30px;
+
+font-weight: 800;
+
+  }
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: -200px;
+margin-top: 600px;
+margin-right: 1000px;
+
+background: #FFF
+
+
+
+  }
+ 
+.bottom-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+margin-top: 600px;
+margin-right: 550px;
+background: #FFF
+  }
+ .cent{
+    position: absolute;
+    right: 16;
+    margin-left: 250px;
+    margin-bottom: 287px;
+    background: #FFF
+    
+ }
+ 
+ .info{
+ position: absolute;
+ top: 8px;
+ right: 16px;
+ margin-top: 600px;
+ margin-right: 350px;
+ 
+ }
+ .in{
+    width: 174px;
+height: 52px;
+border-radius: 8px;
+background: #FFF;
+ }
+  .ton{
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    background: #FF5400;
+  }
 
 @media screen and (max-width:576px) {
     header{
